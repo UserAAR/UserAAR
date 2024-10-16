@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg">
@@ -15,7 +14,7 @@
 </h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Amil+Abdullazada;I'm+a+Passionate+Software+Developer;Web+Programming+%26+Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Amil+Abdullazada;I'm+a+Passionate+Software+Developer;Data+Science+Enthusiast;Backend+developer" alt="Typing SVG" />
 </a>
 
 - 👨‍💻 I'm a Software Engineer. As a Software engineer, I'm constantly learning and exploring new technologies to improve my skills.
