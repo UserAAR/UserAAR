@@ -41,9 +41,7 @@
   &nbsp;
   <a href="https://www.instagram.com/abdullayeff.ar/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/instagram-icon.svg'></a>
   &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/facebook-official.svg'></a>
-  &nbsp;
-  <a href="mailto:omer.akrum@yahoo.com"><img width ='36px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/yahoo-icon.svg'></a>
+  <a href="mailto:amil.abdullazada@gmail.com"><img width ='36px' src ='https://github.com/UserAAR/UserAAR/blob/main/icons8-gmail.svg'></a>
 </div>
 
 <br>
@@ -58,16 +56,10 @@
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-html-5.svg'> 
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-css3.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-bootstrap.svg'>
-  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-sass.svg'> 
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-javascript.svg'>
-  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-typescript.svg'>
-  <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/jquery-icon%20(1).svg'> 
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-webpack.svg'> 
-  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-angularjs.svg'>
-  <img width ='55px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-nodejs.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-git.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-github.svg'>
-  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-figma.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-java.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-c-programming.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-c%2B%2B.svg'>
@@ -75,9 +67,6 @@
   <img width ='48px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-mysql-logo.svg'> &nbsp;
   <img width ='54px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-oracle-logo.svg'>
   <img width ='52px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-oracle-application-express%20(1).svg'>
-  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-arduino.svg'>
-  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-dart.svg'>
-  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-flutter.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-google-firebase-console.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-android-studio.svg'>
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-java-eclipse.svg'>
