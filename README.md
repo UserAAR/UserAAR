@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amil</h1>
 <h3 align="center">Passionate Software Developer | Web Programming & Data Science Enthusiast</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; margin-right: 20px;">
     <ul>
       <li>🌱 I’m currently learning <strong>Spring Framework concepts like Spring Boot, Spring Security, and Microservices</strong></li>
@@ -15,7 +15,7 @@
       <a href="https://www.hackerrank.com/amil_abdullazada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amil_abdullazada" height="30" width="40" /></a>
     </p>
 
-    
+<h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -68,8 +68,8 @@
 </p>
 
   </div>
-  <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" />
+  <div style="flex: 1; text-align: right;">
+    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" style="max-width: 100%; height: auto;" />
   </div>
 </div>
 
