@@ -22,6 +22,8 @@
 - 💻 I’m passionate about software development and I'm looking forward to getting to work on new projects in the near future.
 - 📧 Feel free to send me a message if you would like to know more about me.
  <br>
+⚡ Fun fact 1 + 1 = 10
+<br>
  
 ## 📊 GitHub Analytics & Trophy
 
