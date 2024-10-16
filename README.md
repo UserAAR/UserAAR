@@ -78,7 +78,6 @@
   <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-visual-studio-code-2019.svg'>
   <br><br>
 </div>
-<a target="_blank" href="https://icons8.com">You Too Can Explore Icons8</a>
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
