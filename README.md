@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-![snake gif](https://github.com/UserAAR/UserAAR/blob/output/github-contribution-grid-snake.gif)
+
+![Snake animation](https://github.com/UserAAR/UserAAR/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=UserAAR&label=Profile%20Views&color=0e75b6&style=flat""/></p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
 
