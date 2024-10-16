@@ -1,80 +1,83 @@
-<h1 align="center">Hi 👋, I'm Amil</h1>
-<h3 align="center">Passionate Software Developer | Web Programming & Data Science Enthusiast</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Omar95-A&label=Profile%20Views&color=0e75b6&style=flat""/></p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
-    <ul>
-      <li>🌱 I’m currently learning <strong>Spring Framework concepts like Spring Boot, Spring Security, and Microservices</strong></li>
-      <li>📫 How to reach me: <strong>amil.abdullazada@gmail.com</strong></li>
-      <li>⚡ Fun fact: <strong>I'm a software developer and hacking Instagram accounts isn’t our job! 🔒</strong></li>
-    </ul>
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-      <a href="https://linkedin.com/in/aar-amil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aar-amil" height="30" width="40" /></a>
-      <a href="https://instagram.com/abdullayeff.ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullayeff.ar" height="30" width="40" /></a>
-      <a href="https://www.hackerrank.com/amil_abdullazada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amil_abdullazada" height="30" width="40" /></a>
-    </p>
+<h3 align="center">
+  Welcome to my profile 👋
+</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Amil+Abdullazada;I'm+a+Passionate+Software+Developer;Web+Programming+%26+Data+Science+Enthusiast" alt="Typing SVG" />
+</a>
 
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" style="max-width: 100%; height: auto;" />
-  </div>
+- 👨‍💻 I'm a Software Engineer. As a Software engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 🎓 I’m currently studying Computer Science at UNEC.
+- 💻 I’m passionate about software development and I'm looking forward to getting to work on new projects in the near future.
+- 📧 Feel free to send me a message if you would like to know more about me.
+ <br>
+ 
+## 📊 GitHub Analytics & Trophy
+
+![Amil's GitHub stats](https://github-readme-stats.vercel.app/api?username=UserAAR&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar95-A&layout=donut&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=UserAAR&theme=juicyfresh&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+<br>
+
+## 📧 Connect With Me
+
+<br>
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/aar-amil/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/linkedin-icon.svg'></a>
+  &nbsp;
+  <a href="https://www.instagram.com/abdullayeff.ar/"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/instagram-icon.svg'></a>
+  &nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100094963694533"><img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/facebook-official.svg'></a>
+  &nbsp;
+  <a href="mailto:omer.akrum@yahoo.com"><img width ='36px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/social%20media%20icons/yahoo-icon.svg'></a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=useraar&show_icons=true&locale=en&layout=compact" alt="useraar" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=useraar&show_icons=true&locale=en" alt="useraar" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=useraar&" alt="useraar" /></p>
+## 🛠  Tech Stack
+
+<div align="left">
+  <br>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-html-5.svg'> 
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-css3.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-bootstrap.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-sass.svg'> 
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-javascript.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-typescript.svg'>
+  <img width ='32px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/jquery-icon%20(1).svg'> 
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-webpack.svg'> 
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-angularjs.svg'>
+  <img width ='55px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-nodejs.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-git.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-github.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-figma.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-java.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-c-programming.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-c%2B%2B.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-php-logo.svg'> &nbsp;
+  <img width ='48px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-mysql-logo.svg'> &nbsp;
+  <img width ='54px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-oracle-logo.svg'>
+  <img width ='52px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-oracle-application-express%20(1).svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-arduino.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-dart.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-flutter.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-google-firebase-console.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-android-studio.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-java-eclipse.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-intellij-idea.svg'>
+  <img width ='42px' src ='https://github.com/Omar95-A/Omar95-A/blob/main/main/tech%20icons/icons8-visual-studio-code-2019.svg'>
+  <br><br>
+</div>
+<a target="_blank" href="https://icons8.com">You Too Can Explore Icons8</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
