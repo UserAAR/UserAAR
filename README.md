@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=UserAAR&label=Profile%20Views&color=0e75b6&style=flat""/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Omar95-A&label=Profile%20Views&color=0e75b6&style=flat""/></p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
 
 <h3 align="center">
