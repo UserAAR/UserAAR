@@ -7,7 +7,7 @@
 </picture>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Omar95-A&label=Profile%20Views&color=0e75b6&style=flat""/></p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right" style="margin-top: 90px;"/>
 
 <h3 align="center">
   Welcome to my profile 👋
