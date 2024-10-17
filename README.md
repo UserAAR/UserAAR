@@ -17,11 +17,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Amil+Abdullazada;I'm+a+Passionate+Software+Developer;Data+Science+Enthusiast;Backend+developer" alt="Typing SVG" />
 </a>
 
-- 👨‍💻 I'm a Software Engineer. As a Software engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 🎓 I’m currently studying Computer Science at UNEC.
-- 💻 I’m passionate about software development and I'm looking forward to getting to work on new projects in the near future.
-- 📧 Feel free to send me a message if you would like to know more about me.
-- ⚡ Fun fact 1 + 1 = 10
+- **👨‍💻 I'm a Software Engineer. As a Software engineer, I'm constantly learning and exploring new technologies to improve my skills.**
+- **🎓 I’m currently studying Computer Science at UNEC.**
+- **💻 I’m passionate about software development and I'm looking forward to getting to work on new projects in the near future.**
+- **📧 Feel free to send me a message if you would like to know more about me.**
+- **⚡ Fun fact: 1 + 1 = 10**
  <br>
 
 <div align="left"> 
