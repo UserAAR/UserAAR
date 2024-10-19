@@ -10,7 +10,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right" style="margin-top: 90px;"/>
 
 <h3 align="center">
-  Welcome to my profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" >
+  Welcome to my profile
 </h3>
 
 <a href="https://git.io/typing-svg">
